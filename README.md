@@ -104,7 +104,7 @@ python inference.py
 * Best validation accuracy: 88.7%
 
 * Training / validation curves
-![Training Curve](images/training_curve.png)
+![Training Curve](training_curves.png)
 
 ---
 
