@@ -113,6 +113,7 @@ python inference.py
 * Only ResNet-based models are used (as required).
 * No external datasets are used.
 * Several experiments were conducted to improve performance (data augmentation, hyperparameter tuning, etc.).
+* I have also uploaded the notebook I worked on throughout the homework. You will be able to see how I developed and arrived at this final solution.
 
 ---
 
@@ -121,3 +122,4 @@ python inference.py
 * PyTorch Documentation: https://pytorch.org/
 * Torchvision Models: https://pytorch.org/vision/stable/models.html
 * Courses Material
+* https://medium.com/swlh/how-data-augmentation-improves-your-cnn-performance-an-experiment-in-pytorch-and-torchvision-e5fb36d038fb
